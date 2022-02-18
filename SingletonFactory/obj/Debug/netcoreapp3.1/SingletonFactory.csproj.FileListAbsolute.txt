@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\bin\Debug\netcoreapp3.1\SingletonFactory.exe
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\bin\Debug\netcoreapp3.1\SingletonFactory.deps.json
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\bin\Debug\netcoreapp3.1\SingletonFactory.runtimeconfig.json
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\bin\Debug\netcoreapp3.1\SingletonFactory.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\bin\Debug\netcoreapp3.1\SingletonFactory.dll
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\bin\Debug\netcoreapp3.1\SingletonFactory.pdb
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\obj\Debug\netcoreapp3.1\SingletonFactory.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\obj\Debug\netcoreapp3.1\SingletonFactory.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\obj\Debug\netcoreapp3.1\SingletonFactory.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\obj\Debug\netcoreapp3.1\SingletonFactory.dll
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\obj\Debug\netcoreapp3.1\SingletonFactory.pdb
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\obj\Debug\netcoreapp3.1\SingletonFactory.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\obj\Debug\netcoreapp3.1\SingletonFactory.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\SingletonFactory\SingletonFactory\obj\Debug\netcoreapp3.1\SingletonFactory.GeneratedMSBuildEditorConfig.editorconfig

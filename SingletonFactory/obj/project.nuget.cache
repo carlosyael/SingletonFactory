@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u6BgGLYS7wHxqBbgscxpSrcGBnP95YuknEaJ13orAKwnu8FXRtdQQ8uSV7qWKHp/Vdn+Q1WEHBuuxhefKoiPMw==",
+  "dgSpecHash": "LfJkfZYuLW+wqhWI3j+2N0TAwZZTw2HHiYFcIGE/f452dz7QSdVrzwJOIJ88CnS4ymAiWm4lp9jykSxTh2VTNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\SingletonFactory\\SingletonFactory\\SingletonFactory.csproj",
+  "projectFilePath": "C:\\Users\\carlo\\OneDrive\\Documentos\\SingletonFactory\\SingletonFactory\\SingletonFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

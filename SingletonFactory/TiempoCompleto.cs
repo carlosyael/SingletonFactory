@@ -16,8 +16,8 @@ namespace SingletonFactory
             //en esta parte creamos o abrimos el documento
             escritura = File.AppendText("log.txt");
             escritura.Close();
-            //usamos la cedula como identificador
-            Console.WriteLine("ingrese la cedudula o pasaporte");
+            //usamos la cedula como identificador unico
+            Console.WriteLine("ingrese la cédudula o pasaporte");
             cedula = Console.ReadLine();
             //pasamos a evaluar dicha informacion
             lectura = File.OpenText("log.txt");
